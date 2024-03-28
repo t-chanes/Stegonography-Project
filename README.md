@@ -1,4 +1,7 @@
 # stego-summer23
+
+Made in collaboration with Tyler Jobe and Brandon Evins at the University of Texas at San Antonio for the summer 2023 semester. 
+
 steganography project to hide data in contrast
 
 Usage:
